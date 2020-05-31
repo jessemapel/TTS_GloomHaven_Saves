@@ -30,13 +30,18 @@
     "UpdateTime": 1590122025
   },
   {
-    "Directory": "/Users/jmapel//Library//Tabletop Simulator//Saves/TS_AutoSave.json",
-    "Name": "Auto Save - Gloomhaven - Fantasy Setup - 5/21/2020 9:34:16 PM",
-    "UpdateTime": 1590122057
-  },
-  {
     "Directory": "/Users/jmapel//Library//Tabletop Simulator//Saves/TS_Save_7.json",
     "Name": "7 - End of session 2 - 5/21/2020 9:34:59 PM",
     "UpdateTime": 1590122100
+  },
+  {
+    "Directory": "/Users/jmapel//Library//Tabletop Simulator//Saves/TS_Save_8.json",
+    "Name": "8 - End of session 3 - 5/31/2020 2:38:38 PM",
+    "UpdateTime": 1590961119
+  },
+  {
+    "Directory": "/Users/jmapel//Library//Tabletop Simulator//Saves/TS_AutoSave.json",
+    "Name": "Auto Save - Gloomhaven - Fantasy Setup - 5/31/2020 2:39:07 PM",
+    "UpdateTime": 1590961148
   }
 ]
