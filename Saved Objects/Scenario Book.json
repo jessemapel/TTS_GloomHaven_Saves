@@ -1,0 +1,65 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "ObjectStates": [
+    {
+      "Name": "Custom_PDF",
+      "Transform": {
+        "posX": -10.500001,
+        "posY": 1.65000224,
+        "posZ": -6.0621767,
+        "rotX": 4.23858246E-08,
+        "rotY": 180.0,
+        "rotZ": -5.37012177E-08,
+        "scaleX": 4.0,
+        "scaleY": 1.0,
+        "scaleZ": 4.0
+      },
+      "Nickname": "Scenario Book",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.313725382,
+        "g": 0.2862744,
+        "b": 0.243137121
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomPDF": {
+        "PDFUrl": "http://cloud-3.steamusercontent.com/ugc/788631267073463803/C59F6D1EA2216D823721EA579E5DB2C1EB934B51/",
+        "PDFPassword": "",
+        "PDFPage": 0,
+        "PDFPageOffset": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "GUID": "f3404a"
+    }
+  ],
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "VersionNumber": ""
+}
